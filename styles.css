@@ -1,0 +1,41 @@
+.progress-label {
+	position: relative;
+	top: 60px;
+	left: 45%;
+	width: 10%;
+	font-weight: bold;
+	text-align: center;
+}
+.progress-bar {
+	position: relative;
+	left: 10%;
+	top: 100px;
+	border: 2px solid black;
+	border-radius: 8px;
+	width: 80%;
+	height: 25px;
+}
+#demo {
+	background-color: red;
+	height: 25px;
+	width: 0px;
+	border-radius: 8px;
+}
+.play-btn {
+	position: relative;
+	top: 150px;
+	left: 45%;
+    width: 10%;
+    border: 2px solid green;
+    border-radius: 3px;
+    background-color: white;
+    padding: 7px;
+    color: green;
+    font-weight: bold;
+}
+.play-btn:hover {
+	background-color: green;
+	color: white;
+	cursor: pointer;
+}
+/*created by : ridoan saleh nasution*/
